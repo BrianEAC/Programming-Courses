@@ -5,9 +5,9 @@ This is a selection of free programming courses i've found online. Hope it serve
 Courses: 
 
 https://www.theodinproject.com/  (JS, RoR)
-https://fullstackopen.com/en/ (JS(intermediate) MERN, ESPAÑOL)
-https://javascript.info/ (JS)
-https://developer.mozilla.org/en-US/docs/Learn(JS, ESPAÑOL)
+https://fullstackopen.com/en/ (JS(intermediate) MERN, ENGLISH/ESPAÑOL)
+https://javascript.info/ (JS, ENGLISH/ESPAÑOL)
+https://developer.mozilla.org/en-US/docs/Learn(JS, ENGLISH/ESPAÑOL)
 https://www.coderhood.dev/academy (JS, ESPAÑOL)
 https://argentinaprograma.com/ (JS, ESPAÑOL)
 https://learn.shayhowe.com/html-css/ (HTML/CSS)
@@ -23,9 +23,9 @@ https://www.edx.org/es/course/introduction-to-computer-science-and-programming-7
 https://argentinaenpython.com/quiero-aprender-python/#por-donde-empezar (PYTHON, ESPAÑOL)
 https://pythones.net/(PYTHON, ESPAÑOL)
 https://wiki.python.org/moin/BeginnersGuide (PYTHON)
-https://automatetheboringstuff.com/2e/chapter0/(PYTHON, ESTA EN LIBROS)
+https://automatetheboringstuff.com/2e/chapter0/(PYTHON)
 
-https://docs.microsoft.com/en-us/dotnet/csharp/(C#, ESPAÑOL)
+https://docs.microsoft.com/en-us/dotnet/csharp/(C#, ENGLISH/ESPAÑOL)
 https://www.learncs.org/ (C#)
 
 
@@ -35,7 +35,7 @@ https://courses.caveofprogramming.com/p/java-for-complete-beginners (JAVA)
 https://introcs.cs.princeton.edu/java/home/ (JAVA)
 
 
-https://www.freecodecamp.org/ (various, ESPAÑOL)
+https://www.freecodecamp.org/ (various, ENGLISH/ESPAÑOL)
 https://cs50.harvard.edu/x/2021/  (C, JS, Python)
 web.stanford.edu/class/cs166/ (ALGORITHMS & DATA STRUCTURES)
 https://www.coursera.org/learn/algorithms-part1 (ALGORITHMS & DATA STRUCTURES)
@@ -47,7 +47,7 @@ Online courses from universities (MIT, Stanford, Harvard, Helsinki, etc):
 
 https://es.coursera.org/ 
 https://www.edx.org/es/
-https://www.mooc.fi/en (Muy bueno) 
+https://www.mooc.fi/en 
 
 
 
