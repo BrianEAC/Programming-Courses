@@ -12,7 +12,7 @@ https://www.coderhood.dev/academy (JS, ESPAÑOL) </br>
 https://argentinaprograma.com/ (JS, ESPAÑOL) </br>
 https://learn.shayhowe.com/html-css/ (HTML/CSS) </br>
 https://web.dev/learn/css/ (CSS) </br>
- Games to learn css grid/flexbox:  </br>
+css grid/flexbox (learning games):  </br>
 https://cssgridgarden.com/ </br>
 https://mastery.games/flexboxzombies/ </br>
 https://flexboxfroggy.com/#es </br>
